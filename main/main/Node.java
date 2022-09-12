@@ -1,4 +1,4 @@
-package br.unicap.ed1.atividade06;
+package main;
 
 public class Node <Key extends Comparable <Key>, Value> {
 

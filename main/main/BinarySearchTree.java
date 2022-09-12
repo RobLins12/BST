@@ -1,4 +1,4 @@
-package br.unicap.ed1.atividade06;
+package main;
 
 import java.util.ArrayList;
 import java.util.List;
